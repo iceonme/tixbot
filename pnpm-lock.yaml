@@ -430,6 +430,7 @@ importers:
         specifier: ^1.2.3
         version: 1.2.3
       '@microsoft/agents-hosting-extensions-teams':
+
         specifier: ^1.2.3
         version: 1.2.3
       express:
@@ -567,6 +568,8 @@ importers:
       openclaw:
         specifier: workspace:*
         version: link:../..
+
+  packages/windows-shell: {}
 
   ui:
     dependencies:
